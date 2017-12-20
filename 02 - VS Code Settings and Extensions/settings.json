@@ -1,0 +1,24 @@
+{
+  "editor.fontFamily": "Liberation Mono, Inconsolata, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [
+    80
+  ],
+  "editor.tabSize": 2,
+  "javascript.validate.enable": true,
+  "terminal.integrated.fontSize": 16,
+  "window.zoomLevel": 0,
+  "workbench.activityBar.visible": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.statusBar.visible": false,
+  "files.associations": {
+    "*.gql": "graphql"
+  },
+  "files.autoSave": "off",
+  "eslint.autoFixOnSave": true,
+  "workbench.panel.location": "right",
+  "workbench.colorTheme": "Dark+ (contrast)",
+  "workbench.startupEditor": "none"
+}
